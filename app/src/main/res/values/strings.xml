@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IndiaELearn</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tab1learning">tab1learning</string>
+    <string name="title_activity_government_section">Government Section</string>
+    <string-array name="array_government_courses">
+        <item>SBI PO EXAM 2017</item>
+        <item>SSC CGL EXAM 2017</item>
+        <item>RBI GRADE B EXAM 2017</item>
+        <item>INDIAN RAILWAYS EXAM 2017</item>
+        <item>LIC AAO EXAM 2017</item>
+        <item>IBPS SO EXAM 2017</item>
+        <item>IBPS CLERK EXAM 2017</item>
+        <item>SBI CLERK EXAM 2017</item>
+        <item>TET EXAM 2017</item>
+        <item>UPSC EXAM 2017</item>
+
+
+    </string-array>
+    <string-array name="array_entrepreneur_courses">
+        <item>B-PLAN</item>
+    </string-array>
+
+    <string-array name="array_programming_courses">
+        <item>CSS</item>
+        <item>HTML</item>
+        <item>ANDROID</item>
+        <item>PYTHON</item>
+        <item>JAVA PROGRAMMING</item>
+        <item>C++ PROGRAMMING</item>
+        <item>C PROGRAMMING</item>
+    </string-array>
+
+    <string-array name="array_technology_courses">
+        <item>DIGITAL MARKETING</item>
+        <item>BLOGGING</item>
+
+    </string-array>
+
+    <string name="title_activity_entrepreneur_section">Entrepreneur Section</string>
+    <string name="title_activity_programming_section">Programming Section</string>
+    <string name="title_activity_technology_section">technologySection</string>
+</resources>
