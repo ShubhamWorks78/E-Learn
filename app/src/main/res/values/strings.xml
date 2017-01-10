@@ -41,4 +41,16 @@
     <string name="title_activity_entrepreneur_section">Entrepreneur Section</string>
     <string name="title_activity_programming_section">Programming Section</string>
     <string name="title_activity_technology_section">technologySection</string>
+
+    <string name="tab_community_str_show_pass">Show Password</string>
+    <string name="tab_community_str_btn_login">Login</string>
+    <string name="tab_community_hint_enter_username_email">Enter Username or Email</string>
+    <string name="tab_community_hint_enter_password">Password</string>
+    <string name="tab_community_link_to_register">Not have an account?Sign Up.</string>
+    <string name="tab_community_link_to_login">Already Registered.Login Me</string>
+    <string name="tab_community_register_hint_name">Full Name</string>
+    <string name="tab_community_register_hint_username">Username</string>
+    <string name="tab_community_register_hint_password">Password</string>
+    <string name="tab_community_register_hint_email">Email</string>
+    <string name="tab_community_btn_register">Register</string>
 </resources>
