@@ -57,6 +57,7 @@
             android:layout_marginTop="25dp"
             android:elevation="3dp"/>
     </LinearLayout>
+<<<<<<< HEAD
 
     <Button
         android:id="@+id/community_link_register"
@@ -70,5 +71,17 @@
 
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true" />
+=======
+    <Button
+        android:id="@+id/community_link_register"
+        android:text="@string/tab_community_link_to_register"
+        android:layout_width="wrap_content"
+        android:textColor="#FF9800"
+        android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" android:layout_marginBottom="45dp"
+        android:background="@null"
+
+    />
+>>>>>>> origin/master
 
 </RelativeLayout>
