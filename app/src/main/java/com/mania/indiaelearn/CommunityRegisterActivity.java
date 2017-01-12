@@ -45,7 +45,7 @@ public class CommunityRegisterActivity extends AppCompatActivity {
         btn_link_Login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(CommunityRegisterActivity.this,tab3community.class);
+                Intent intent = new Intent(CommunityRegisterActivity.this,CommunityLogin.class);
                 startActivity(intent);
             }
         });
