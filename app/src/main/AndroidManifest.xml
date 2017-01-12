@@ -44,6 +44,12 @@
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".CommunityRegisterActivity">
         </activity>
+        <activity android:name=".CommunityActivity">
+        </activity>
+        <activity android:name=".Community_Upload_Activity">
+        </activity>
+        <activity android:name=".CommunityLogin">
+        </activity>
     </application>
 
 </manifest>

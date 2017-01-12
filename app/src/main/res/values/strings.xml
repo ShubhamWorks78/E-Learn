@@ -53,4 +53,6 @@
     <string name="tab_community_register_hint_password">Password</string>
     <string name="tab_community_register_hint_email">Email</string>
     <string name="tab_community_btn_register">Register</string>
+    <string name="tab_community_open_drawer">Open navigation drawer</string>
+    <string name="tab_community_close_drawer">Close navigation drawer</string>
 </resources>
