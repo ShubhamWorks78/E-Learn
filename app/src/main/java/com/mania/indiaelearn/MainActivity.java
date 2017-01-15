@@ -1,10 +1,17 @@
 package com.mania.indiaelearn;
 
 import android.content.Intent;
+import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+
 import android.support.v4.app.FragmentActivity;
+
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
+
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -95,7 +102,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+
     }
+
 
 
     @Override
@@ -150,6 +160,7 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     tab3community tab3=new tab3community();
                     return tab3;
+
                 default:
                     return null;
             }
@@ -172,6 +183,7 @@ public class MainActivity extends AppCompatActivity {
                     return "lEADERSHIP";
                 case 2:
                     return "COMMUNITY";
+
             }
             return null;
         }

@@ -42,6 +42,7 @@
     <string name="title_activity_programming_section">Programming Section</string>
     <string name="title_activity_technology_section">technologySection</string>
 
+
     <string name="tab_community_str_show_pass">Show Password</string>
     <string name="tab_community_str_btn_login">Login</string>
     <string name="tab_community_hint_enter_username_email">Enter Username or Email</string>
@@ -55,4 +56,5 @@
     <string name="tab_community_btn_register">Register</string>
     <string name="tab_community_open_drawer">Open navigation drawer</string>
     <string name="tab_community_close_drawer">Close navigation drawer</string>
+
 </resources>

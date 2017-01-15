@@ -33,7 +33,11 @@
             android:layout_height="40dp"
             android:id="@+id/community_register_user_name"
             android:layout_gravity="center"
+<<<<<<< HEAD
+            android:hint="@string/tab_community_register_hint_username"
+=======
             android:text="@string/tab_community_register_hint_username"
+>>>>>>> origin/master
             android:layout_marginTop="20dp"
         />
 
@@ -41,7 +45,11 @@
             android:layout_width="220dp"
             android:layout_height="40dp"
             android:id="@+id/community_register_password"
+<<<<<<< HEAD
+            android:hint="@string/tab_community_register_hint_password"
+=======
             android:text="@string/tab_community_register_hint_password"
+>>>>>>> origin/master
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
         />
@@ -52,7 +60,11 @@
             android:id="@+id/community_register_email"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
+<<<<<<< HEAD
+            android:hint="@string/tab_community_register_hint_email"
+=======
             android:text="@string/tab_community_register_hint_email"
+>>>>>>> origin/master
         />
 
         <Button

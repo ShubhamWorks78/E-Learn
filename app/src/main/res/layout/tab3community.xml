@@ -10,6 +10,7 @@
                 tools:context="com.mania.indiaelearn.MainActivity">
 
 
+
     <Button android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tab_community_str_btn_login"
@@ -17,4 +18,10 @@
             android:background="@color/colorPrimary"
             android:layout_alignParentTop="true" android:layout_alignParentEnd="true"
             android:layout_marginEnd="118dp" android:layout_marginTop="220dp"/>
+    <TextView
+        android:id="@+id/section_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COMMUNITY"/>
+
 </RelativeLayout>

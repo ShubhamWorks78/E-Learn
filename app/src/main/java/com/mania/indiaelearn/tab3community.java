@@ -1,13 +1,11 @@
 package com.mania.indiaelearn;
 
-import android.app.ProgressDialog;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.text.InputType;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
@@ -26,17 +24,23 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+
+
 /**
  * Created by Mania on 08-01-2017.
  */
 
 
 public class tab3community extends Fragment {
+
     Button link_login;
+
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.tab3community, container, false);
+
         link_login = (Button)rootView.findViewById(R.id.community_btn_to_login);
 
         link_login.setOnClickListener(new View.OnClickListener() {
